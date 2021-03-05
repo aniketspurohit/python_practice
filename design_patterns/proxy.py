@@ -6,7 +6,7 @@ from abc import ABCMeta, abstractclassmethod
 
 class IPerson(metaclass=ABCMeta):
     @abstractclassmethod
-    def person_method(self):
+    def person_method():
         """ Interface Method """
 
 

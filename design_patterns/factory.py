@@ -7,7 +7,7 @@ class IPerson(metaclass=ABCMeta):
     """ Cannot be instantiated """
 
     @abstractclassmethod
-    def person_method(self):
+    def person_method():
         """ Interface method """
 
 

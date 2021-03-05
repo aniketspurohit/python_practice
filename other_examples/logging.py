@@ -1,0 +1,4 @@
+"""
+DEBUG, INFO, ERROR, WARNING, CRITICAL.
+"""
+
