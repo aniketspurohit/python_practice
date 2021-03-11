@@ -1,4 +1,4 @@
-""" This pattern is useful if a tree like heirarchy is needed. """
+""" This pattern is useful if a tree like heirarchy is needed."""
 
 from abc import ABCMeta, abstractstaticmethod, abstractmethod
 
